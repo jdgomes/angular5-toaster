@@ -16,7 +16,12 @@
         "target": "es5"
     },
     "files": [
-        "./src/angular6-toaster.module.ts"
+        "./src/angular6-toaster.module.ts",
+        "./src/bodyOutputType.ts",
+        "./src/toaster-config.ts",
+        "./src/toaster-container/toaster-container.component.ts",
+        "./src/toaster.service.ts",
+        "./src/toaster-container/toaster-container.component.ngfactory"
     ],
     "exclude": [
         "node_modules",
